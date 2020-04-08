@@ -1,0 +1,2 @@
+Pert_6_DoubleLinkedList.node
+Pert_6_DoubleLinkedList.Jurnal
